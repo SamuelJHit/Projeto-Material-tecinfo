@@ -2,7 +2,7 @@
 
 **Nome do Projeto:** Sistema de Gestão de Materiais de Construção
 
-**Autor:** [Seu nome]
+**Autor:** Samuel Justino
 
 **Descrição:** O projeto consiste no desenvolvimento de um sistema para gerenciamento de materiais de construção, permitindo cadastrar, listar, editar e excluir produtos e clientes, incluindo informações de estoque e endereços para entrega.
 
