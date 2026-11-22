@@ -1,0 +1,56 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Cimento CP-II 50kg",
+      "codigoBarras": "7891234567895",
+      "marca": "Votorantim",
+      "familia": "Alvenaria",
+      "precoVenda": 39.9,
+      "estoqueAtual": 120,
+      "unidade": "Saco"
+    },
+    {
+      "id": 2,
+      "nome": "Fio Flexível 2,5mm",
+      "codigoBarras": "7891234567901",
+      "marca": "Sil",
+      "familia": "Elétrica",
+      "precoVenda": 4.5,
+      "estoqueAtual": 500,
+      "unidade": "Metro"
+    },
+    {
+      "nome": "Parafuso 7cm",
+      "codigoBarras": "1684716841011",
+      "marca": "PaulinBacana",
+      "familia": "Ferramentas",
+      "precoVenda": 2.59,
+      "estoqueAtual": 5,
+      "unidade": "Unidade",
+      "id": 3
+    }
+  ],
+  "clientes": [
+    {
+      "nome": "João da Silva",
+      "telefone": "5583977775555",
+      "whatsapp": "8377775555",
+      "cidade": "Campina Grande",
+      "bairro": "Centro",
+      "ponto-de-referencia": "vizinho a Samu",
+      "id": 1
+    },
+    {
+      "nome": "Jason Duval",
+      "telefone": "(83) 98349-2297",
+      "rua": "João Queiroga",
+      "numero": "59",
+      "bairro": "Centro",
+      "cidade": "Leonida",
+      "cep": "55777-000",
+      "pontoReferencia": "Vizinho distrido do bay harbor",
+      "id": 2
+    }
+  ]
+}
