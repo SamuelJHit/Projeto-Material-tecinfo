@@ -16,4 +16,12 @@
 
 **Objetivo:** Desenvolver uma aplicação web aplicando conceitos de desenvolvimento front-end, organização de componentes, rotas, tipagem com TypeScript e integração com uma API REST simulada, facilitando o gerenciamento de produtos e clientes.
 
-**Como funciona?:** Vá em terminal, digite primeiro npm run dev, abra outro terminal e digite npm run api para o projeto funcionar. 
+**Como funciona?:** Primeiro vá em terminal e digite passo a passo:
+`npm create vite@latest sistema-produtos -- --template react-ts`
+`cd sistema-produtos`
+`npm install`
+`npm install react-router-dom`
+`npm install -D json-server@0.17.4`
+`code .`
+
+E depois digite primeiro npm run dev, abra outro terminal e digite npm run api para o projeto funcionar. 
