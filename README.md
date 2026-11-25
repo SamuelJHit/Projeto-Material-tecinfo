@@ -6,6 +6,9 @@
 
 **Descrição:** O projeto consiste no desenvolvimento de um sistema para gerenciamento de materiais de construção, permitindo cadastrar, listar, editar e excluir produtos e clientes, incluindo informações de estoque e endereços para entrega.
 
+📦 Módulo A: ✅
+👥 Módulo B: ✅
+
 **Tecnologias utilizadas:**
 - React
 - TypeScript
